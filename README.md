@@ -16,7 +16,7 @@ docker-compose up -d
 
 ## A tener en cuenta
 
-LOS PUERTOS __3000__, __3005__ Y __27017__ deben estar disponibles.
+LOS PUERTOS __3000__, __3500__ Y __27017__ deben estar disponibles.
 
 ## Modo de uso (SIN docker)
 
