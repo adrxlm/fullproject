@@ -6,7 +6,7 @@ Gracias a __docker-compose__ podemos definir una serie de contenedores a ser lev
 
 ### Instalar docker-compose
 ```bash
-bash install-docker-compose.sh
+sudo bash install-docker-compose.sh
 ```
 
 ### Levantar contenedores
