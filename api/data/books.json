@@ -1,0 +1,598 @@
+[{
+		"title": "The Hobbit",
+		"author": "J.R.R Tolkien",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/519V0IlKZpL._AC_US436_QL65_.jpg",
+		"categories": [
+			"c8f5d5c9-b750-4ee2-a209-e0d4710c1976"
+		]
+	},
+	{
+		"title": "I, Robot",
+		"author": "Isaac Asimov",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51+uc9PwVOL._AC_US436_QL65_.jpg",
+		"categories": [
+			"5",
+			"7"
+		]
+	},
+	{
+		"title": "Steve Jobs",
+		"author": "Albert Watson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41b+TUx+W9L._AC_US436_QL65_.jpg",
+		"categories": [
+			"1"
+		]
+	},
+	{
+		"title": "Julian Assange: The Unauthorised Autobiography",
+		"author": "Julian Assange",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51AE3cm1b7L._AC_US436_QL65_.jpg",
+		"categories": [
+			"1"
+		]
+	},
+	{
+		"title": "The Snowden Files: The Inside Story of the World's Most Wanted Man",
+		"author": "Luke Harding",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51nIvfrSlhL._AC_US436_QL65_.jpg",
+		"categories": [
+			"1"
+		]
+	},
+	{
+		"title": "Python for Kids: A Playful Introduction to Programming",
+		"author": "Jason R. Briggs",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51stmEXrX8L._AC_US436_QL65_.jpg",
+		"categories": [
+			"3"
+		]
+	},
+	{
+		"title": "Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming",
+		"author": "Bryson Payne",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51MsECuWGhL._AC_US436_QL65_.jpg",
+		"categories": [
+			"3"
+		]
+	},
+	{
+		"title": "JavaScript for Kids: A Playful Introduction to Programming",
+		"author": "Nick Morgan",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51tVpC71UKL._AC_US436_QL65_.jpg",
+		"categories": [
+			"3"
+		]
+	},
+	{
+		"title": "Minecraft Modding For Kids",
+		"author": "Sarah Guthals",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51Dfk2SQV0L._AC_US436_QL65_.jpg",
+		"categories": [
+			"3"
+		]
+	},
+	{
+		"title": "The Business of the 21st Century",
+		"author": "Robert T. Kiyosaki",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51ojLicqjBL._AC_US436_QL65_.jpg",
+		"categories": [
+			"2"
+		]
+	},
+	{
+		"title": "Trump: The Art of the Deal",
+		"author": "Donald J. Trump",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41USlFXq4vL._AC_US436_QL65_.jpg",
+		"categories": [
+			"2"
+		]
+	},
+	{
+		"title": "Star Wars: Original Trilogy Graphic Novel",
+		"author": "Lucasfilm Press and Kawaii Studio",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/515TNX0Fe7L._AC_US436_QL65_.jpg",
+		"categories": [
+			"4"
+		]
+	},
+	{
+		"title": "Deadpool Kills The Marvel Universe",
+		"author": "Cullen Bunn",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51DJ7i7FilL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"4"
+		]
+	},
+	{
+		"title": "London Murder",
+		"author": "John Stone",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/410MjUqBIuL._AC_US436_QL65_.jpg",
+		"categories": [
+			"6"
+		]
+	},
+	{
+		"title": "The Chemist",
+		"author": "Stephenie Meyer",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51BfBqT5mTL.jpg",
+		"categories": [
+			"6"
+		]
+	},
+	{
+		"title": "Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages",
+		"author": "Bruce Tate",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51LZT+tSrTL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "Programming Phoenix: Productive |> Reliable |> Fast",
+		"author": "Bruce Tate",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51tVpC71UKL._AC_US436_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "Seven More Languages in Seven Weeks: Languages That Are Shaping the Future",
+		"author": "Bruce Tate",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41pPn50VnvL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "Eloquent JavaScript: A Modern Introduction to Programming",
+		"author": "Marijn Haverbeke",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51PGqcewmqL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "You Don't Know JS: Up & Going",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41FhogvNebL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "You Don't Know JS: ES6 & Beyond",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41WeQ-Z4diL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "You Don't Know JS: Async & Performance",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51Kb27EcNPL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "You Don't Know JS: this & Object Prototypes",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41MZdroe73L._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "You Don't Know JS: Types & Grammar",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41cRygYTmeL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "You Don't Know JS: Scope & Closures",
+		"author": "Nick Morgan",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51SqAlfxJiL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(a) The Hobbit",
+		"author": "J.R.R Tolkien",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/519V0IlKZpL._AC_US436_QL65_.jpg",
+		"categories": [
+			"5",
+			"7"
+		]
+	},
+	{
+		"title": "(a) I, Robot",
+		"author": "Isaac Asimov",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51+uc9PwVOL._AC_US436_QL65_.jpg",
+		"categories": [
+			"5",
+			"7"
+		]
+	},
+	{
+		"title": "(a) Steve Jobs",
+		"author": "Albert Watson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41b+TUx+W9L._AC_US436_QL65_.jpg",
+		"categories": [
+			"1"
+		]
+	},
+	{
+		"title": "(a) Julian Assange: The Unauthorised Autobiography",
+		"author": "Julian Assange",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51AE3cm1b7L._AC_US436_QL65_.jpg",
+		"categories": [
+			"1"
+		]
+	},
+	{
+		"title": "(a) The Snowden Files: The Inside Story of the World's Most Wanted Man",
+		"author": "Luke Harding",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51nIvfrSlhL._AC_US436_QL65_.jpg",
+		"categories": [
+			"1"
+		]
+	},
+	{
+		"title": "(a) Python for Kids: A Playful Introduction to Programming",
+		"author": "Jason R. Briggs",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51stmEXrX8L._AC_US436_QL65_.jpg",
+		"categories": [
+			"3"
+		]
+	},
+	{
+		"title": "(a) Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming",
+		"author": "Bryson Payne",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51MsECuWGhL._AC_US436_QL65_.jpg",
+		"categories": [
+			"3"
+		]
+	},
+	{
+		"title": "(a) JavaScript for Kids: A Playful Introduction to Programming",
+		"author": "Nick Morgan",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51tVpC71UKL._AC_US436_QL65_.jpg",
+		"categories": [
+			"3"
+		]
+	},
+	{
+		"title": "(a) Minecraft Modding For Kids",
+		"author": "Sarah Guthals",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51Dfk2SQV0L._AC_US436_QL65_.jpg",
+		"categories": [
+			"3"
+		]
+	},
+	{
+		"title": "(a) The Business of the 21st Century",
+		"author": "Robert T. Kiyosaki",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51ojLicqjBL._AC_US436_QL65_.jpg",
+		"categories": [
+			"2"
+		]
+	},
+	{
+		"title": "(a) Trump: The Art of the Deal",
+		"author": "Donald J. Trump",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41USlFXq4vL._AC_US436_QL65_.jpg",
+		"categories": [
+			"2"
+		]
+	},
+	{
+		"title": "(a) Star Wars: Original Trilogy Graphic Novel",
+		"author": "Lucasfilm Press and Kawaii Studio",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/515TNX0Fe7L._AC_US436_QL65_.jpg",
+		"categories": [
+			"4"
+		]
+	},
+	{
+		"title": "(a) Deadpool Kills The Marvel Universe",
+		"author": "Cullen Bunn",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51DJ7i7FilL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"4"
+		]
+	},
+	{
+		"title": "(a) London Murder",
+		"author": "John Stone",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/410MjUqBIuL._AC_US436_QL65_.jpg",
+		"categories": [
+			"6"
+		]
+	},
+	{
+		"title": "(a) The Chemist",
+		"author": "Stephenie Meyer",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51BfBqT5mTL.jpg",
+		"categories": [
+			"6"
+		]
+	},
+	{
+		"title": "(a) Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages",
+		"author": "Bruce Tate",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51LZT+tSrTL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(a) Programming Phoenix: Productive |> Reliable |> Fast",
+		"author": "Bruce Tate",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51tVpC71UKL._AC_US436_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(a) Seven More Languages in Seven Weeks: Languages That Are Shaping the Future",
+		"author": "Bruce Tate",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41pPn50VnvL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(a) Eloquent JavaScript: A Modern Introduction to Programming",
+		"author": "Marijn Haverbeke",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51PGqcewmqL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(a) You Don't Know JS: Up & Going",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41FhogvNebL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(a) You Don't Know JS: ES6 & Beyond",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41WeQ-Z4diL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(a) You Don't Know JS: Async & Performance",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51Kb27EcNPL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(a) You Don't Know JS: this & Object Prototypes",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41MZdroe73L._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(a) You Don't Know JS: Types & Grammar",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41cRygYTmeL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(a) You Don't Know JS: Scope & Closures",
+		"author": "Nick Morgan",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51SqAlfxJiL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(b) The Hobbit",
+		"author": "J.R.R Tolkien",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/519V0IlKZpL._AC_US436_QL65_.jpg",
+		"categories": [
+			"5",
+			"7"
+		]
+	},
+	{
+		"title": "(b) I, Robot",
+		"author": "Isaac Asimov",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51+uc9PwVOL._AC_US436_QL65_.jpg",
+		"categories": [
+			"5",
+			"7"
+		]
+	},
+	{
+		"title": "(b) Steve Jobs",
+		"author": "Albert Watson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41b+TUx+W9L._AC_US436_QL65_.jpg",
+		"categories": [
+			"1"
+		]
+	},
+	{
+		"title": "(b) Julian Assange: The Unauthorised Autobiography",
+		"author": "Julian Assange",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51AE3cm1b7L._AC_US436_QL65_.jpg",
+		"categories": [
+			"1"
+		]
+	},
+	{
+		"title": "(b) The Snowden Files: The Inside Story of the World's Most Wanted Man",
+		"author": "Luke Harding",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51nIvfrSlhL._AC_US436_QL65_.jpg",
+		"categories": [
+			"1"
+		]
+	},
+	{
+		"title": "(b) Python for Kids: A Playful Introduction to Programming",
+		"author": "Jason R. Briggs",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51stmEXrX8L._AC_US436_QL65_.jpg",
+		"categories": [
+			"3"
+		]
+	},
+	{
+		"title": "(b) Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming",
+		"author": "Bryson Payne",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51MsECuWGhL._AC_US436_QL65_.jpg",
+		"categories": [
+			"3"
+		]
+	},
+	{
+		"title": "(b) JavaScript for Kids: A Playful Introduction to Programming",
+		"author": "Nick Morgan",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51tVpC71UKL._AC_US436_QL65_.jpg",
+		"categories": [
+			"3"
+		]
+	},
+	{
+		"title": "(b) Minecraft Modding For Kids",
+		"author": "Sarah Guthals",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51Dfk2SQV0L._AC_US436_QL65_.jpg",
+		"categories": [
+			"3"
+		]
+	},
+	{
+		"title": "(b) The Business of the 21st Century",
+		"author": "Robert T. Kiyosaki",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51ojLicqjBL._AC_US436_QL65_.jpg",
+		"categories": [
+			"2"
+		]
+	},
+	{
+		"title": "(b) Trump: The Art of the Deal",
+		"author": "Donald J. Trump",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41USlFXq4vL._AC_US436_QL65_.jpg",
+		"categories": [
+			"2"
+		]
+	},
+	{
+		"title": "(b) Star Wars: Original Trilogy Graphic Novel",
+		"author": "Lucasfilm Press and Kawaii Studio",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/515TNX0Fe7L._AC_US436_QL65_.jpg",
+		"categories": [
+			"4"
+		]
+	},
+	{
+		"title": "(b) Deadpool Kills The Marvel Universe",
+		"author": "Cullen Bunn",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51DJ7i7FilL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"4"
+		]
+	},
+	{
+		"title": "(b) London Murder",
+		"author": "John Stone",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/410MjUqBIuL._AC_US436_QL65_.jpg",
+		"categories": [
+			"6"
+		]
+	},
+	{
+		"title": "(b) The Chemist",
+		"author": "Stephenie Meyer",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51BfBqT5mTL.jpg",
+		"categories": [
+			"6"
+		]
+	},
+	{
+		"title": "(b) Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages",
+		"author": "Bruce Tate",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51LZT+tSrTL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(b) Programming Phoenix: Productive |> Reliable |> Fast",
+		"author": "Bruce Tate",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51tVpC71UKL._AC_US436_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(b) Seven More Languages in Seven Weeks: Languages That Are Shaping the Future",
+		"author": "Bruce Tate",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41pPn50VnvL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(b) Eloquent JavaScript: A Modern Introduction to Programming",
+		"author": "Marijn Haverbeke",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51PGqcewmqL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(b) You Don't Know JS: Up & Going",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41FhogvNebL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(b) You Don't Know JS: ES6 & Beyond",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41WeQ-Z4diL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(b) You Don't Know JS: Async & Performance",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/51Kb27EcNPL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(b) You Don't Know JS: this & Object Prototypes",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41MZdroe73L._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	},
+	{
+		"title": "(b) You Don't Know JS: Types & Grammar",
+		"author": "Kyle Simpson",
+		"image": "https://images-na.ssl-images-amazon.com/images/I/41cRygYTmeL._AC_US436_FMwebp_QL65_.jpg",
+		"categories": [
+			"8"
+		]
+	}
+]

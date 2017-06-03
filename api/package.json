@@ -1,0 +1,21 @@
+{
+	"name": "utn-fullstack-books-api",
+	"version": "0.0.1",
+	"description": "Manejo de rutas con express",
+	"main": "index.js",
+	"scripts": {
+		"prestart": "npm install",
+		"start": "forever -w index.js"
+	},
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"body-parser": "^1.17.1",
+		"cors": "^2.8.3",
+		"express": "^4.15.2",
+		"mongodb": "^2.2.26",
+		"read-json": "^1.0.3",
+		"uuid": "^3.0.1",
+		"write-json": "^1.0.1"
+	}
+}

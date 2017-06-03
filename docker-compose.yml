@@ -1,0 +1,33 @@
+version: "3" 
+
+services:
+  mongodb:
+    image: mongo:3.4
+    networks:
+      - utn-api
+    ports:
+      - "${PORT:-27017}:27017"
+  api:
+    depends_on:
+      - mongodb
+    build: ./api
+    image: "api-books:${TAG:-dev}"
+    networks:
+      - utn-api
+    ports:
+      - "${PORT:-3500}:3500"
+    volumes:
+      - ./api:/app
+  app:
+    depends_on:
+      - api
+    build: ./app
+    image: "app-books:${TAG:-dev}"
+    networks:
+      - utn-api
+    ports:
+      - "${PORT:-3000}:3000"
+    volumes:
+      - ./app:/app
+networks:
+  utn-api:

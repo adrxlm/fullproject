@@ -1,0 +1,8 @@
+.AdminCategories-mainAction {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-content: flex-end;
+  justify-content: flex-end;
+  margin-bottom: 15px;
+}
