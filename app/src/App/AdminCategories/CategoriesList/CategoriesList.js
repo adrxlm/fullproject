@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Col, Table, Button, ButtonToolbar } from 'react-bootstrap';
 import './CategoriesList.css';
 
-const CategoriesList = ({ items }) => (
+const CategoriesList = ({ items, onSelect, onRemove }) => (
   <Col md={12}>
     <Table striped bordered condensed hover>
       <thead>
@@ -19,8 +19,8 @@ const CategoriesList = ({ items }) => (
             <td>{item.label}</td>
             <td>
               <ButtonToolbar className="CategoriesList-toolbar">
-                <Button bsStyle="info" bsSize="xsmall">Edit</Button>
-                <Button bsStyle="danger" bsSize="xsmall">Remove</Button>
+                <Button bsStyle="info" bsSize="xsmall" onClick={() => onSelect(item)}>Edit</Button>
+                <Button bsStyle="danger" bsSize="xsmall" onClick={() => onRemove(item)}>Remove</Button>
               </ButtonToolbar>
             </td>
           </tr>

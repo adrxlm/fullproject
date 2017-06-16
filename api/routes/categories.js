@@ -14,7 +14,9 @@ router.get("/", (req, res, next) => {
 router.get("/:id", (req, res, next) => {
   models.category
     .getById(req.params.id)
-    .then(category => res.json(category))
+    .then(category => category
+      ? res.json(category)
+      : next(createError(404, "Category not found")))
     .catch(err => next(createError(500, "internal server error", err.message)));
 });
 
@@ -28,16 +30,22 @@ router.post("/", (req, res, next) => {
 const update = (req, res, next) => {
   models.category
     .update(req.body)
-    .then(category => res.json(category))
+    .then(category => category
+      ? res.json(category)
+      : next(createError(404, "Category not found")))
     .catch(err => next(createError(500, "internal server error", err.message)));
 };
+
 router.put("/:id", update);
+
 router.patch("/:id", update);
 
 router.delete("/:id", (req, res, next) => {
   models.category
     .remove(req.params.id)
-    .then(() => res.sendStatus(200))
+    .then(category => category
+      ? res.status(201).json(category)
+      : next(createError(404, "Category not found")))
     .catch(err => next(createError(500, "internal server error", err.message)));
 });
 
