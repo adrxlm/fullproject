@@ -109,7 +109,7 @@ class AdminCategories extends Component {
     this.setState(prevState => ({
       ...prevState,
       showModal: false,
-      selected: false
+      selected: null
     }));
   }
 
@@ -176,7 +176,7 @@ class AdminCategories extends Component {
             confirmBtnBsStyle="danger"
             cancelBtnBsStyle="default"
             onConfirm={() => this.removeCategory(removeCandidate)}
-            onCancel={() => this.removeCategory(removeCandidate)} />}
+            onCancel={() => this.cancelRemove()} />}
       </Grid>
     );
   }

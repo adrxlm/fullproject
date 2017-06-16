@@ -15,9 +15,9 @@ class CategoryModal extends Component {
   componentWillReceiveProps(nextProps) {
     const { category } = nextProps;
 
-    category && this.setState(prevState => ({
+    this.setState(prevState => ({
       ...prevState,
-      category: category
+      category: category || { label: '' }
     }));
   }
 
