@@ -56,6 +56,8 @@ class CategoryModal extends Component {
     })
       .then(response => response.json())
       .then(category => {
+        console.log('category');
+        console.log(category);
         this.setState(prevState => ({
           ...prevState,
           status: 'init',
